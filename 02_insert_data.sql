@@ -3,4 +3,6 @@ VALUES
     ('John Doe', 'johndoe@gmail.com', '123-456-7890'),
     ('Jane Doe', 'janedoe@gmail.com', '123-456-7890');
      
+     SELECT * FROM tblStudents;
+
    
